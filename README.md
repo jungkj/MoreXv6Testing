@@ -2,7 +2,8 @@
 More Xv6 Experiments/Testing
 
 <br/>
-# Added new system call named sysinfo:
+
+# Added new system call named sysinfo
 That fetches and prints a variety of system information. <br/> Also added a new user space program, sysinfo, that will call sysinfo() to print out the system information.
 
 
