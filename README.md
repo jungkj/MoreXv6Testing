@@ -1,9 +1,9 @@
 # Xv6 System Calls
 More Xv6 Experiments/Testing
 
-<br\>
+<br/>
 # Added new system call named sysinfo:
-That fetches and prints a variety of system information. <br\> Also added a new user space program, sysinfo, that will call sysinfo() to print out the system information.
+That fetches and prints a variety of system information. <br/> Also added a new user space program, sysinfo, that will call sysinfo() to print out the system information.
 
 
 # Kernel Backtrace
